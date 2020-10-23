@@ -1,0 +1,6 @@
+C:\Curso\20483\Luismi\Tareas\Mod08_T20483\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\bin\Debug\FourthCoffee.Infrastructure.dll
+C:\Curso\20483\Luismi\Tareas\Mod08_T20483\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\bin\Debug\FourthCoffee.Infrastructure.pdb
+C:\Curso\20483\Luismi\Tareas\Mod08_T20483\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\obj\Debug\FourthCoffee.Infrastructure.csprojAssemblyReference.cache
+C:\Curso\20483\Luismi\Tareas\Mod08_T20483\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\obj\Debug\FourthCoffee.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Curso\20483\Luismi\Tareas\Mod08_T20483\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\obj\Debug\FourthCoffee.Infrastructure.dll
+C:\Curso\20483\Luismi\Tareas\Mod08_T20483\Democode\Starter\Fourth Coffee Contact Finder\FourthCoffee.Infrastructure\obj\Debug\FourthCoffee.Infrastructure.pdb
